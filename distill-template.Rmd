@@ -12,6 +12,7 @@ date: "`r Sys.Date()`"
 bibliography: bibliography.bib
 output: distill::distill_article
 preview: figures/BERTfig3.png
+creative_commons: CC BY
 ---
 
 ```{r setup, include=FALSE}

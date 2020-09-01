@@ -1,1 +1,1 @@
-Distill Article Template for Academic NLP Projects 
+Distill Article Template for NLP Projects 

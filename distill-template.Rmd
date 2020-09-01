@@ -6,13 +6,16 @@ author:
   - name: Allison Koh 
     url: https://allisonkoh.github.io
   - name: Second Author 
+date: "`r Sys.Date()`" 
 categories: 
   - Natural Language Processing 
-date: "`r Sys.Date()`" 
-bibliography: bibliography.bib
-output: distill::distill_article
-preview: figures/BERTfig3.png
 creative_commons: CC BY
+repository_url: https://github.com/allisonkoh/distill-template/
+output: 
+  distill::distill_article: 
+    self_contained: false
+preview: figures/BERTfig3.png
+bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}

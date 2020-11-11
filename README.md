@@ -1,1 +1,1 @@
-Distill Article Template for NLP Projects 
+Distill Article Template for Data Science Projects 
